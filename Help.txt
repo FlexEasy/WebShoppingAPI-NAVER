@@ -10,3 +10,6 @@ Application Page
 
 네이버 DataLab
 - https://developers.naver.com/docs/serviceapi/datalab/search/search.md
+
+네이버 Shopping Insight
+- https://datalab.naver.com/shoppingInsight/sCategory.naver
