@@ -1,0 +1,8 @@
+
+Application Page
+- https://developers.naver.com/apps/#/myapps/ABwk6FkXGJDx9hIa6mXD/overview
+
+네이버 오픈 API 목록
+- https://naver.github.io/naver-openapi-guide/apilist.html
+네이버 오픈 API 공통 가이드
+https://naver.github.io/naver-openapi-guide/
