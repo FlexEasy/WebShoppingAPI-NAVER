@@ -7,3 +7,6 @@ Application Page
 
 네이버 오픈 API 공통 가이드
 - https://naver.github.io/naver-openapi-guide/
+
+네이버 DataLab
+- https://developers.naver.com/docs/serviceapi/datalab/search/search.md
